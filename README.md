@@ -1,2 +1,2 @@
 # reklama
- Advertiser Sigma complains about the constant increase in CPA for its advertising campaigns in the last 4 months (from June to September 2022). The task is to analyze its placement with the goals: 1) Find out the reason for the growing CPA 2) Give recommendations for reducing and stabilizing CPA to the target value (380 rubles)
+Рекламодатель Сигма жалуется на постоянный рост CPA по своим рекламным кампаниям в последние 4 месяца (с июня по сент 2022). Задача проанализировать его размещение с целями: 1) Выяснить причину растущего CPA 2) Дать рекомендации по снижению и стабилизации CPA до целевого значения (380 руб)
